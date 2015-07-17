@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="389px" height="137px" viewBox="0 0 389 137" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3 (11970) - http://www.bohemiancoding.com/sketch -->
+    <title>npr-logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="npr-logo" sketch:type="MSLayerGroup" transform="translate(2.000000, 2.000000)">
+            <path d="M76.622,98.488 L76.622,60.705 C76.622,55.133 75.546,51.059 73.401,48.494 C71.258,45.932 67.751,44.645 62.882,44.645 C60.634,44.645 58.235,45.277 55.677,46.541 C53.127,47.796 51.128,49.371 49.698,51.24 L49.698,98.487 L34.394,98.487 L34.394,32.847 L45.426,32.847 L48.245,38.947 C52.412,34.127 58.555,31.718 66.689,31.718 C74.477,31.718 80.689,34.018 85.189,38.729 C89.701,43.429 91.989,49.929 91.989,58.268 L91.989,98.468 L76.622,98.468 L76.622,98.488 Z" id="Shape" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+            <path d="M187.621,44.824 C194.664,44.824 199.721,46.424 202.721,49.567 C205.769,52.767 207.321,58.167 207.321,65.867 C207.321,73.117 205.78,78.425 202.712,81.787 C199.634,85.144 194.576,86.825 187.533,86.825 C183.828,86.825 180.587,85.706 177.823,83.463 L177.823,49.063 C180.695,46.3 184,44.8 187.6,44.824 L187.621,44.824 Z M191.025,99.787 C201.037,99.787 208.93,96.885 214.716,91.086 C220.496,85.295 223.387,77.015 223.387,66.283 C223.387,43.258 212.932,31.738 192.008,31.738 C186.405,31.738 181.686,33.581 177.848,37.256 L177.848,32.849 L162.536,32.849 L162.536,124.121 L177.848,124.121 L177.848,96.9 C181.81,98.8 186.2,99.8 191,99.787 L191.025,99.787 Z" id="Shape" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+            <path d="M337.236,47.229 C334.514,45.508 331.528,44.646 328.273,44.646 C324.741,44.646 321.602,46.253 318.856,49.446 C316.115,52.659 314.748,56.587 314.748,61.223 L314.748,98.459 L299.44,98.459 L299.44,32.819 L314.748,32.819 L314.748,39.09 C319.006,34.168 324.679,31.709 331.754,31.709 C336.949,31.709 340.954,32.509 343.654,34.099 L337.236,47.229 L337.236,47.229 Z" id="Shape" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+            <path d="M128.2,1.8 L128.2,130.8" id="Shape" stroke="#FFFFFF" stroke-width="4" sketch:type="MSShapeGroup"></path>
+            <path d="M256.3,1.8 L256.3,130.8" id="Shape" stroke="#FFFFFF" stroke-width="4" sketch:type="MSShapeGroup"></path>
+            <rect id="Rectangle-path" stroke="#FFFFFF" stroke-width="4" sketch:type="MSShapeGroup" x="0" y="0" width="384.2" height="132.1"></rect>
+        </g>
+    </g>
+</svg>
