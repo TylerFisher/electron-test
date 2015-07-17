@@ -1,0 +1,1 @@
+window.COPY = {"content": {"project_name": "Fact list", "save_warning": "If your list is too long or headline is too wide, you will not be able to save the image file.", "headline_examples": "e.g. <em>What we know about the Nepal earthquake</em>, <em>Presidential dog facts</em>"}}

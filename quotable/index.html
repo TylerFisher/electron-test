@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>quotable</title>
+
+    <meta name="description" content="An opinionated project template for (mostly) server-less apps.">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width" />
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <link rel="shortcut icon" href="http://media.npr.org/favicon.ico" />
+
+    <!-- Font loader -->
+    <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.4.10/webfont.js"></script>
+    <script>
+        WebFont.load({
+             custom: {
+                 families: [
+                     'Gotham SSm:n4,n7',
+                     'Gotham:n4,n7'
+                 ],
+                 urls: [
+                     'http://s.npr.org/templates/css/fonts/GothamSSm.css',
+                     'http://s.npr.org/templates/css/fonts/Gotham.css'
+                 ]
+             },
+             timeout: 10000
+        });
+    </script>
+
+    <!-- CHARTBEAT -->
+    <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+    <!-- CSS -->
+
+
+    <link rel="stylesheet" type="text/css" href="css/app.min.css" />
+
+
+    <!-- JS -->
+
+
+
+
+
+
+
+
+    <script type="text/javascript" src="js/app-header.min.js"></script>
+
+
+
+</head>
+<body>
+    <a class="sr-only" href="#content">Skip To Content</a>
+
+
+<header>
+    <div class="header-wrapper">
+        <h1>Quotable
+        <span class="help">
+            <a href="https://docs.google.com/document/d/15G5N4an1BtGUVxN-Rh5coJFZxICsiFLLme4D5o1Tf30/edit?usp=sharing">
+            <i class="icon-info-sign"></i>
+            how to use this
+            </a>
+        </span>
+        </h1>
+        <a class="toolkit-link" href="../index.html">
+            <span class="logo"><img src="http://media.npr.org/chrome/news/nprlogo_138x46.gif" alt="NPR" /></span>
+            Newsroom Toolkit
+        </a>
+    </div>
+</header>
+<div class="content">
+    <div class="poster-wrapper">
+        <div class="poster quote poster-news">
+            <span class="left-quote">&ldquo;</span>
+            <blockquote><p></p></blockquote>
+
+            <p class="source"></p>
+            <p class="show-credit"></p>
+
+            <p class="logo-wrapper">
+                <img class="logo logo-news" src="./assets/npr-home.png">
+                <img class="logo logo-music" src="./assets/npr-music.png">
+                <img class="logo logo-fresh-air" src="./assets/fresh-air.png">
+                <img class="logo logo-snap-judgement" src="./assets/snap-judgement-logo.png">
+
+            </p>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="form controls col-md-12">
+                <div class="controls-wrapper">
+                    <div class="form-group">
+                        <label for="fontsize">Font Size</label>
+                        <input id="fontsize" name="fontsize" type="range" min="24" max="120" value="90">
+                    </div>
+                    <div class="form-group">
+                        <label>Theme</label>
+                        <div id="theme" class="btn-group-vertical">
+                            <button id="news" class="btn btn-default btn-primary">News</button>
+                            <button id="music" class="btn btn-default">Music</button>
+                            <button id="fresh-air" class="btn btn-default">Fresh Air</button>
+                            <button id="snap-judgement" class="btn btn-default">Snap Judgment</button>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label>Aspect ratio</label>
+                        <div id="aspect-ratio" class="btn-group">
+                            <button id="square" class="btn btn-default btn-primary">Square</button>
+                            <button id="sixteen-by-nine" class="btn btn-default">16:9 <small>(Twitter)</small></button>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label>Quotation marks</label>
+                        <div id="quote" class="btn-group">
+                            <button class="btn btn-primary">On</button>
+                            <button class="btn btn-default">Off</button>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label for="show">Show Attribution <span class="help">(e.g. Morning Edition)</span></label>
+                        <input id="show" class="form-control" name="fontsize" type="text">
+                    </div>
+                    <div class="form-group">
+                        <button id="save" class="btn btn-lg btn-primary">Save image</button>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+    <script src="js/lib/medium-editor.min.js"></script>
+
+
+
+
+
+
+
+
+    <script type="text/javascript" src="js/app-footer.min.js"></script>
+
+
+
+
+
+</body>
+</html>
